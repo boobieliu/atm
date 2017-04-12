@@ -1,0 +1,7 @@
+1  Car  250000
+2  Clothes   399
+3  Shoes  199
+4  Iphone5s   4999
+5  Coffee   35
+6  Foods    68
+7  Bicycle   1688
